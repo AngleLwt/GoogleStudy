@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">animation</string>
+    <string name="lorem_ipsum">Angel</string>
+    <string name="card_back_title">"This is "</string>
+    <string name="card_back_description">Angel</string>
+    <string name="description_image_1">David</string>
+</resources>
